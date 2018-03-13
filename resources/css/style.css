@@ -29,10 +29,15 @@ p {
 
 .footer {
   text-align: left;
+  background-color: dimgray;
+  color: white;
 }
 
-.nav {
-  list-style: none;
+a {
   color: white;
-  font-size: 18px;
+  font-size: 18px !important;
+}
+
+ul {
+  list-style: none;
 }
